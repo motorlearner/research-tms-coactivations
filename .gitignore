@@ -1,2 +1,4 @@
-.linter
+# .lintr file for local code linting
+.lintr
+# local vscode settings
 .vscode/
